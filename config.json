@@ -1,0 +1,34 @@
+{
+    "data": {
+        "store"     : "Legacy Nails Spa",
+        "slug"      : "legacy-nails-spa",
+        "phone"     : "(256) 881-7436",
+        "email"     : "thao45kg@gmail.com",
+        "address"   : "2785 Carl T Jones Dr Ste B Huntsville, AL 35803",
+        "time_1"    : "Mon - Sat: 9:00 AM - 7:30 PM",
+        "time_2"    : "Sun: 11:00 AM - 5:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/profile.php?id=100079717500244",
+        "instagram" :   "https://www.instagram.com/legacy_nail_spa/",
+        "google"    :   "https://goo.gl/maps/1LJ46CiQcfjPSyFz6", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDY2NTN8bGVnYWN5Mjc4NXxBTF8wNzkxNHwyZWU2ZGU2NzlkY2ExYTg4ZWIyYTY2ZmFlYzQ2ZTYzNQ==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13125.025661944408!2d-86.5387397!3d34.6734774!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x35dfe64e2e2f191b!2sLegacy%20Nails!5e0!3m2!1sen!2s!4v1664270498836!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#dea14f",
+        "primary_light"         :   "#fff4e6",
+        "primary_hover"         :   "#e7911d",
+        "secondary"             :   "#afa292",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#71afb5",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#000",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5502/"
+}
